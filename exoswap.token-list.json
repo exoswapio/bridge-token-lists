@@ -1,11 +1,11 @@
 {
   "name": "Exoswap default token list with ERC20 tokens",
-  "logoURI": "https://raw.githubusercontent.com/exoswapio/token-lists/v1.0.0/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/exoswapio/token-lists/v2.0.0/logo.svg",
   "keywords": ["stos", "defi", "bridge"],
-  "timestamp": "2023-05-18T10:25:37.446Z",
+  "timestamp": "2023-07-17T18:20:20.543Z",
   "tokens": [],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
