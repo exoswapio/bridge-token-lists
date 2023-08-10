@@ -1,4 +1,4 @@
-# Exoswap Token Lists (beta)
+# Bidge Exoswap Token Lists (beta)
 
 Official supported token list on Exoswap.
 
