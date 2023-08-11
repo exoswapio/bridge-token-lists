@@ -1,6 +1,6 @@
 {
   "name": "@exoswap/token-lists",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Exoswap default token list with ERC20 tokens",
   "main": "exoswap.token-list.json",
   "repository": "git@github.com:exoswapio/token-lists.git",
