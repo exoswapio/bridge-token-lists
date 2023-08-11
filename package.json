@@ -1,5 +1,5 @@
 {
-  "name": "@exoswap/token-lists",
+  "name": "@exoswap/bridge-token-lists",
   "version": "2.0.3",
   "description": "Exoswap default token list with ERC20 tokens",
   "main": "exoswap.token-list.json",
