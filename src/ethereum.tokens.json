@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
+    "name": "Stratos Token",
+    "symbol": "STOS",
+    "decimals": 18,
+    "isExperimental": false,
+    "extensions": {
+      "bridgeInfo": {
+        "2048": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0xA04B06eE86130C471d0c275403AD5516d7FFf91e",
+          "destBridgeAddress": "0x2A715726513242200cDa976c83bc0dd00e94dB03"
+        }
+      }
+    }
+  }
+]
