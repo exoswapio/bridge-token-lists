@@ -2,7 +2,7 @@
   "name": "Exoswap default token list with ERC20 tokens",
   "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/logo.svg",
   "keywords": ["stos", "defi", "bridge"],
-  "timestamp": "2023-11-10T11:38:36.953Z",
+  "timestamp": "2023-11-10T13:50:12.281Z",
   "tokens": [
     {
       "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
@@ -22,6 +22,23 @@
       "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
     },
     {
+      "address": "0xBabe7946232A3f56a48E287294724F5dBB152530",
+      "name": "STOS Token",
+      "symbol": "STOS",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "2047": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804",
+            "destBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608"
+          }
+        }
+      },
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
+    },
+    {
       "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
       "name": "USDT",
       "symbol": "USDT",
@@ -37,23 +54,6 @@
       },
       "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_USDT.svg"
-    },
-    {
-      "address": "0xe4A4cF37De40FE8CB5717C7e6F93dA37A104A689",
-      "name": "STOS Token",
-      "symbol": "STOS",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "2047": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804",
-            "destBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608"
-          }
-        }
-      },
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
     },
     {
       "address": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
