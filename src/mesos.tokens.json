@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xE5190a93318A31CF0A6FEa0032b0a3Ffe5731f0E",
+    "address": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
     "name": "Exoswap USDT Token",
     "symbol": "USDT",
     "decimals": 6,
@@ -9,7 +9,7 @@
       "bridgeInfo": {
         "5": {
           "tokenAddress": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
-          "originBridgeAddress": "0x5FFb485F0A00EfFda6d41274012663Bc84169797",
+          "originBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608",
           "destBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804"
         }
       }

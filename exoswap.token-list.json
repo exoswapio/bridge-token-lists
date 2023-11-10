@@ -1,8 +1,8 @@
 {
   "name": "Exoswap default token list with ERC20 tokens",
-  "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v2.0.3/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/logo.svg",
   "keywords": ["stos", "defi", "bridge"],
-  "timestamp": "2023-09-24T10:48:22.822Z",
+  "timestamp": "2023-11-10T11:38:36.953Z",
   "tokens": [
     {
       "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
@@ -19,12 +19,12 @@
         }
       },
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v2.0.3/assets/asset_STOS.svg"
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
     }
   ],
   "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 3
+    "major": 3,
+    "minor": 1,
+    "patch": 0
   }
 }
