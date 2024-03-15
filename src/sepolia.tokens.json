@@ -1,0 +1,34 @@
+[
+  {
+    "address": "0x13687398f311c4fddacCEe6ca4F0667957D3F8bb",
+    "name": "STOS Token",
+    "symbol": "STOS",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "2047": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+          "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
+        }
+      }
+    }
+  },
+  {
+    "address": "0xf7A0EF7D76d24cd628aE675Ee28881B99A9f5CFC",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "2047": {
+          "tokenAddress": "0xBECDd46f384ed3B250449A3cC39cb4d54df0270b",
+          "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+          "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
+        }
+      }
+    }
+  }
+]

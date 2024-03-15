@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x169dC1383Fc2DB55e9C7348dd176B114f3Eb419d",
+    "name": "STOS Token",
+    "symbol": "STOS",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "2047": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+          "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
+        }
+      }
+    }
+  }
+]

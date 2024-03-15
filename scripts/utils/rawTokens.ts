@@ -2,7 +2,8 @@ import { TokenInfo } from "@uniswap/token-lists";
 
 import ethereum from "../../src/ethereum.tokens.json";
 import stratos from "../../src/stratos.tokens.json";
-import goerli from "../../src/goerli.tokens.json";
+import sepolia from "../../src/sepolia.tokens.json";
+import amoy from "../../src/amoy.tokens.json";
 import mesos from "../../src/mesos.tokens.json";
 
 type IRawToken = Pick<TokenInfo, "address" | "name" | "symbol"> &
@@ -17,7 +18,8 @@ export const WEB3_NETWORK_NAMES = [
   "stratos",
   "mesos",
   "ethereum",
-  "goerli",
+  "sepolia",
+  "amoy",
 ] as const;
 export type IWeb3Network = typeof WEB3_NETWORK_NAMES[number];
 
@@ -27,8 +29,9 @@ const rawTokensJson: {
 } = {
   ethereum: [1, ethereum],
   stratos: [2048, stratos],
-  goerli: [5, goerli],
   mesos: [2047, mesos],
+  sepolia: [11155111, sepolia],
+  amoy: [80002, amoy],
 };
 
 export const getNetworkTokens = (network: IWeb3Network): IRawTokenListJson =>

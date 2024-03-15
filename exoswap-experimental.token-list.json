@@ -1,8 +1,8 @@
 {
   "name": "Exoswap default token list with ERC20 tokens",
-  "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/logo.svg",
   "keywords": ["stos", "defi", "bridge"],
-  "timestamp": "2023-11-10T13:50:12.281Z",
+  "timestamp": "2024-03-15T17:23:43.858Z",
   "tokens": [
     {
       "address": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
@@ -19,10 +19,27 @@
         }
       },
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/assets/asset_STOS.svg"
     },
     {
-      "address": "0xBabe7946232A3f56a48E287294724F5dBB152530",
+      "address": "0xBECDd46f384ed3B250449A3cC39cb4d54df0270b",
+      "name": "Exoswap USDT Token",
+      "symbol": "USDT",
+      "decimals": 6,
+      "extensions": {
+        "bridgeInfo": {
+          "11155111": {
+            "tokenAddress": "0xf7A0EF7D76d24cd628aE675Ee28881B99A9f5CFC",
+            "originBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C",
+            "destBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524"
+          }
+        }
+      },
+      "chainId": 2047,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/assets/asset_USDT.svg"
+    },
+    {
+      "address": "0x13687398f311c4fddacCEe6ca4F0667957D3F8bb",
       "name": "STOS Token",
       "symbol": "STOS",
       "decimals": 18,
@@ -30,52 +47,52 @@
         "bridgeInfo": {
           "2047": {
             "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804",
-            "destBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608"
+            "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+            "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
           }
         }
       },
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_STOS.svg"
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/assets/asset_STOS.svg"
     },
     {
-      "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
+      "address": "0xf7A0EF7D76d24cd628aE675Ee28881B99A9f5CFC",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 6,
+      "decimals": 18,
       "extensions": {
         "bridgeInfo": {
           "2047": {
-            "tokenAddress": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
-            "originBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804",
-            "destBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608"
+            "tokenAddress": "0xBECDd46f384ed3B250449A3cC39cb4d54df0270b",
+            "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+            "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
           }
         }
       },
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_USDT.svg"
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/assets/asset_USDT.svg"
     },
     {
-      "address": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
-      "name": "Exoswap USDT Token",
-      "symbol": "USDT",
-      "decimals": 6,
+      "address": "0x169dC1383Fc2DB55e9C7348dd176B114f3Eb419d",
+      "name": "STOS Token",
+      "symbol": "STOS",
+      "decimals": 18,
       "extensions": {
         "bridgeInfo": {
-          "5": {
-            "tokenAddress": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
-            "originBridgeAddress": "0x074217DEC164dA16482867ddA32eb7489D6fb608",
-            "destBridgeAddress": "0x370f9c2517600d0E83671c534f73ad6e4491d804"
+          "2047": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0x7F527A839a938A5Cee2e4E0DcfBc8F7a3D715524",
+            "destBridgeAddress": "0x209a1135993B48e942B2092b83928eEcD3F2aF8C"
           }
         }
       },
-      "chainId": 2047,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.1.0/assets/asset_USDT.svg"
+      "chainId": 80002,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/bridge-token-lists/v3.2.0/assets/asset_STOS.svg"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
